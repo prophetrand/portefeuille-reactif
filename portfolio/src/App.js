@@ -13,9 +13,9 @@ function App() {
       <div id="content-wrap">
         <Router >
           <Header />
+          <Route exact path="/" component={Home} />
           <Route exact path="/projects" component={Projects} />
           <Route exact path="/about" component={About} />
-          <Route exact path="/" component={Home} />
           <Footer />
         </Router>
       </div>
