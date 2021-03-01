@@ -11,13 +11,13 @@ function App() {
   return (
     <div id="wrapper">
       <div id="content-wrap">
-      <Header />
-      <Router >
-        <Route exact path="/projects" component={Projects} />
-        <Route exact path="/about" component={About} />
-        <Route path="*" component={Home} />
-      </Router>
-      <Footer />
+        <Router >
+          <Header />
+          <Route exact path="/projects" component={Projects} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/" component={Home} />
+          <Footer />
+        </Router>
       </div>
     </div>
   );
