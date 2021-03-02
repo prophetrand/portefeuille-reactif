@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portefeuille-reactif/static/css/main.bae5b0fa.chunk.css",
-    "main.js": "/portefeuille-reactif/static/js/main.9fe48f99.chunk.js",
-    "main.js.map": "/portefeuille-reactif/static/js/main.9fe48f99.chunk.js.map",
+    "main.js": "/portefeuille-reactif/static/js/main.63ca297c.chunk.js",
+    "main.js.map": "/portefeuille-reactif/static/js/main.63ca297c.chunk.js.map",
     "runtime-main.js": "/portefeuille-reactif/static/js/runtime-main.97d24e25.js",
     "runtime-main.js.map": "/portefeuille-reactif/static/js/runtime-main.97d24e25.js.map",
     "static/js/2.62a0372f.chunk.js": "/portefeuille-reactif/static/js/2.62a0372f.chunk.js",
     "static/js/2.62a0372f.chunk.js.map": "/portefeuille-reactif/static/js/2.62a0372f.chunk.js.map",
     "index.html": "/portefeuille-reactif/index.html",
     "static/css/main.bae5b0fa.chunk.css.map": "/portefeuille-reactif/static/css/main.bae5b0fa.chunk.css.map",
-    "static/js/2.62a0372f.chunk.js.LICENSE.txt": "/portefeuille-reactif/static/js/2.62a0372f.chunk.js.LICENSE.txt"
+    "static/js/2.62a0372f.chunk.js.LICENSE.txt": "/portefeuille-reactif/static/js/2.62a0372f.chunk.js.LICENSE.txt",
+    "static/media/Rand_Hale_Resume.cd6fe9e2.pdf": "/portefeuille-reactif/static/media/Rand_Hale_Resume.cd6fe9e2.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.97d24e25.js",
     "static/js/2.62a0372f.chunk.js",
     "static/css/main.bae5b0fa.chunk.css",
-    "static/js/main.9fe48f99.chunk.js"
+    "static/js/main.63ca297c.chunk.js"
   ]
 }
