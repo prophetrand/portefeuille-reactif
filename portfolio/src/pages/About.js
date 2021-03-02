@@ -23,7 +23,7 @@ function About() {
                 <p>A PDF download of my resume is available <Link to="/files/Rand_Hale_Resume.pdf" download target="_blank" style={styles.a}>here</Link>.</p>
                 <div className="row justify-content-center">
                     <p className="col-md-3">Contact: <a style={styles.a} target="_blank" rel="noreferrer" href="mailto:randluca@gmail.com">randluca@gmail.com</a></p>
-                    <p className="col-md-3">LinkedIn:   <a style={styles.a} target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rand-hale-83ba389b/">Rand Hale</a></p>
+                    <p className="col-md-3">LinkedIn: <a style={styles.a} target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rand-hale-83ba389b/">Rand Hale</a></p>
                     <p className="col-md-3">GitHub: <a style={styles.a} target="_blank" rel="noreferrer" href="https://github.com/prophetrand">prophetrand</a></p>
                 </div>
             </div>
