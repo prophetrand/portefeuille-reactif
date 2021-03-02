@@ -3,7 +3,7 @@ import "./style.css"
 
 function Footer() {
     return (
-        <div id="footer">
+        <div id="footer" className="footer">
             <footer className="trimColor text-center text-white">
                 <div className="container py-1">
                     <section className="mb-1">

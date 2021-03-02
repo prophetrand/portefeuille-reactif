@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "React Employee Directory",
+        "deployed": "https://prophetrand.github.io/react-employee-directory/",
+        "repo": "https://github.com/prophetrand/react-employee-directory",
+        "image": "https://github.com/prophetrand/react-employee-directory/raw/main/assets/example-app.PNG"
+    },
+    {
+        "id": 2,
+        "title": "Titan Clicker",
+        "deployed": "https://prophetrand.github.io/react-clicker/",
+        "repo": "https://github.com/prophetrand/react-clicker",
+        "image": "https://raw.githubusercontent.com/prophetrand/react-clicker/main/assets/example-app.PNG"
+    },
+    {
+        "id": 3,
+        "title": "Movie Time",
+        "deployed": "https://shielded-coast-01014.herokuapp.com/",
+        "repo": "https://github.com/prophetrand/order-list",
+        "image": "https://raw.githubusercontent.com/prophetrand/order-list/main/public/assets/app_example.PNG"
+    },
+    {
+        "id": 4,
+        "title": "LoveConnect",
+        "deployed": "https://loveconnect14.herokuapp.com/",
+        "repo": "https://github.com/prophetrand/project-2-team-3",
+        "image": "https://loveconnect14.herokuapp.com/assets/images/love-connect.png"
+    },
+    {
+        "id": 5,
+        "title": "Mongo Fitness Tracker",
+        "deployed": "https://enigmatic-ravine-40935.herokuapp.com/",
+        "repo": "https://github.com/prophetrand/mongo-fitness-tracker",
+        "image": "https://github.com/prophetrand/mongo-fitness-tracker/raw/main/assets/example-stats.PNG"
+    },
+    {
+        "id": 6,
+        "title": "Weather Dashboard",
+        "deployed": "https://prophetrand.github.io/weather-api-dashboard/",
+        "repo": "https://github.com/prophetrand/weather-api-dashboard",
+        "image": "https://github.com/prophetrand/weather-api-dashboard/raw/main/example-weather.PNG"
+    }
+]
