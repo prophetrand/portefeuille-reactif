@@ -18,7 +18,7 @@ function Project(props) {
                 <a style={styles.a} target="_blank" rel="noreferrer" href={props.deployed} >Deployed Site</a>
             </div>
         </div>
-    )
+    );
 }
 
 export default Project;
