@@ -2,11 +2,13 @@ import React from "react";
 
 function About() {
     return (
-        <div>
+        <div className="container">
             <p>Abootles</p>
-            {/* Be sure to include email address and link to resume */}
+            
         </div>
     )
 }
 
 export default About;
+
+// Be sure to include email address and link to resume

@@ -1,9 +1,11 @@
 #wrapper {
     position: relative;
     min-height: 100vh;
+    background-color: #dfecdf;
 }
 
 #content-wrap {
     overflow: auto;
     padding-bottom: 2.5rem; /* Footer height */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
