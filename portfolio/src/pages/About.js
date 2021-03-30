@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../files/Rand_Hale_Resume.pdf";
+import resume from "../files/Rand_Hale_Resume_PDF.pdf";
 
 const styles = {
     mainbox: {
